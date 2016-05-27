@@ -25,7 +25,10 @@
 					"text": "Deusieme photo",
 					"sceneId": "house"
 				}
-				]
+				],
+				"mapTour" : true,
+				"compass" : true,
+				"northOffset": 247.5
 			},
 
 			"house": {
