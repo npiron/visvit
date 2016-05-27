@@ -7,7 +7,7 @@
 			"sceneFadeDuration": 1000
 		},
 		"mapTour" : true,
-		"compass" : false,
+		"compass" : true,
 		"scenes": {
 			"circle": {
 				"title": "Moulin du Four",
