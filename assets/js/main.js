@@ -14,7 +14,7 @@
 				"pitch": -3,
 				"yaw": 117,
 				"type": "equirectangular",
-				"panorama": "/assets/images/moulin-1.jpg",
+				"panorama": "assets/images/moulin-1.jpg",
 				"hotSpots": [
 				{
 					"pitch": -2.1,
@@ -31,7 +31,7 @@
 				"hfov": 110,
 				"yaw": 5,
 				"type": "equirectangular",
-				"panorama": "/assets/images/moulin-2.jpg",
+				"panorama": "assets/images/moulin-2.jpg",
 				"hotSpots": [
 				{
 					"pitch": -0.6,
