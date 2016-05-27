@@ -8,6 +8,8 @@
 			"compass" : true,
 			"northOffset": 247.5
 		},
+		"compass" : true,
+		"northOffset": 247.5
 		"scenes": {
 			"circle": {
 				"title": "Moulin du Four",
