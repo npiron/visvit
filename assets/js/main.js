@@ -5,7 +5,6 @@
 			"firstScene": "circle",
 			"author": "Nicolas PIRON",
 			"sceneFadeDuration": 1000,
-			"mapTour" : true,
 			"compass" : true,
 			"northOffset": 247.5
 		},
@@ -26,7 +25,6 @@
 					"sceneId": "house"
 				}
 				],
-				"mapTour" : true,
 				"compass" : true,
 				"northOffset": 247.5
 			},
