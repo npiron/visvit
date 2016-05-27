@@ -6,13 +6,13 @@
 			"author": "Nicolas PIRON",
 			"sceneFadeDuration": 1000
 		},
-		"mapTour" : true,
-		"compass" : true,
 		"scenes": {
 			"circle": {
 				"title": "Moulin du Four",
 				"hfov": 110,
 				"pitch": -3,
+				"mapTour" : true,
+				"compass" : true,
 				"yaw": 117,
 				"type": "equirectangular",
 				"panorama": "assets/images/moulin-1.jpg",
