@@ -196,6 +196,12 @@ var compass = document.createElement('div');
 compass.className = 'pnlm-compass pnlm-controls pnlm-control';
 container.appendChild(compass);
 
+// MapTour
+var mapTour = document.createElement('div');
+mapTour.className = 'pnlm-maptour pnlm-controls pnlm-control';
+container.appendChild(mapTour);
+
+
 // Load and process configuration
 if (initialConfig.firstScene) {
     // Activate first scene if specified in URL
@@ -1349,6 +1355,12 @@ function renderInitCallback() {
         compass.style.display = 'inline';
     } else {
         compass.style.display = 'none';
+    }
+
+    if (config.mapTour) {
+        mapTour.style.display = 'inline';
+    } else {
+        mapTour.style.display = 'none';
     }
     
     // Show hotspots

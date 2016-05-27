@@ -6,7 +6,8 @@
 			"author": "Nicolas PIRON",
 			"sceneFadeDuration": 1000
 		},
-
+		"mapTour" : true,
+		"compass" : false,
 		"scenes": {
 			"circle": {
 				"title": "Moulin du Four",
