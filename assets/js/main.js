@@ -2,7 +2,7 @@
 
 	pannellum.viewer('myvirtualtour', {
 	    "type": "equirectangular",
-	    "panorama": "./assets/images/pano.jpg"
+	    "panorama": "https://pannellum.org/images/alma.jpg"
 	});
 
 })();
