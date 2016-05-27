@@ -7,6 +7,7 @@
 			"sceneFadeDuration": 1000,
 			"mapTour" : true,
 			"compass" : true,
+			"northOffset": 247.5
 		},
 		"scenes": {
 			"circle": {
